@@ -2,3 +2,7 @@ Use this file to record your reflection on this assignment.
 
 - What are your initial impressions of how `Inheritance` affects your programming?
 - What worked, what didn't, what advice would you give someone taking this course in the future?
+
+I found myself mostly applying the concept of inheritance while making the constructor for each class, because for at least this part of the assignment we weren't using any of the other methods or attributes of the parent class Using that super() method was really helpful to cut down on the amount of code I had to write for the constructor and it was interesting to take the basic inherited framework and create several really different building subclasses that were all from the same parent source. Understanding inheritance also affected the way I navigated the java documentation and I was able to find and reference what I needed much more easily and intuitively.
+
+This assignment felt much more intuitive than other assignments we have had this semester, and I was able to know what I was doing most of the time. If I was confused about how to do something, I found it helpful to reference the Java documentation and I was able to navigate that while feeling semiconfident in my abilities to find what I was looking for. What I also found helpful was to include print statements in my methods that I could use for error checking and make sure that the flow of logic was being conducted as I intended
